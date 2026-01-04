@@ -1,0 +1,5 @@
+{
+  "name": "ZenDo - AI Enhanced Task Manager",
+  "description": "A high-performance React Todo application with intelligent task decomposition powered by Gemini, featuring a sleek Tailwind UI and real-time statistics.",
+  "requestFramePermissions": []
+}
